@@ -5,8 +5,9 @@
 package simhash
 
 import (
-	"golang.org/x/text/unicode/norm"
 	"testing"
+
+	"golang.org/x/text/unicode/norm"
 )
 
 func TestNewFeature(t *testing.T) {
