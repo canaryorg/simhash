@@ -11,7 +11,6 @@
 package simhash
 
 import (
-	"golang.org/x/text/unicode/norm"
 	"hash/fnv"
 )
 

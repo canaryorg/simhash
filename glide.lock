@@ -1,0 +1,6 @@
+hash: ff75d2fabe9d1d42ce34b9bfea45fd245ba1529fc6e58324f2f77d69ffde0f0b
+updated: 2017-07-04T14:20:51.335218455+08:00
+imports:
+- name: golang.org/x/text/unicode/norm
+  version: 2bf8f2a19ec09c670e931282edfe6567f6be21c9
+testImports: []

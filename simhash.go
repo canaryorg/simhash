@@ -12,8 +12,6 @@ package simhash
 
 import (
 	"bytes"
-
-	"golang.org/x/text/unicode/norm"
 )
 
 // Returns a 64-bit simhash of the given feature set

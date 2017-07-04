@@ -87,7 +87,7 @@ func TestGetFeatures(t *testing.T) {
 	expected := []Feature{NewFeature([]byte("test")), NewFeature([]byte("string"))}
 
 	if len(actual) != len(expected) {
-		t.Errorf("getFeatures returned wrong number of features")
+		t.Errorf("getFeatures returned wrong number of features %s", "")
 	}
 
 	for i := 0; i < len(actual); i++ {

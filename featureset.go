@@ -12,8 +12,6 @@ package simhash
 
 import (
 	"regexp"
-
-	"golang.org/x/text/unicode/norm"
 )
 
 // FeatureSet represents a set of features in a given document

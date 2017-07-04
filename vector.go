@@ -12,8 +12,6 @@ package simhash
 
 import (
 	"hash/fnv"
-
-	"golang.org/x/text/unicode/norm"
 )
 
 type Vector [64]int

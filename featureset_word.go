@@ -13,8 +13,6 @@ package simhash
 import (
 	"bytes"
 	"regexp"
-
-	"golang.org/x/text/unicode/norm"
 )
 
 var boundaries = regexp.MustCompile(`[\w']+(?:\://[\w\./]+){0,1}`)
