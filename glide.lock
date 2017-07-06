@@ -1,9 +1,0 @@
-hash: eac6e7f2e8cf296f6892213b657f57f0db0118a69f9017563e79eda7dfd76833
-updated: 2017-07-06T09:02:42.146671846+08:00
-imports:
-- name: golang.org/x/text
-  version: 2bf8f2a19ec09c670e931282edfe6567f6be21c9
-  subpackages:
-  - transform
-  - unicode/norm
-testImports: []

@@ -1,5 +1,0 @@
-package: github.com/penhauer-xiao/simhash
-import:
-- package: golang.org/x/text
-  subpackages:
-  - unicode/norm
